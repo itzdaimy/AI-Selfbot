@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "chance": 0.4,
+  "gifs": [
+    {
+      "url": "https://tenor.com/view/roblox-mighty-omega-gif-22253898",
+      "context": "when someone states something extremely obvious",
+      "triggers": [
+        "no shit",
+        "obviously",
+        "duh",
+        "no way",
+        "really?"
+      ]
+    },
+    {
+      "url": "https://tenor.com/view/benjammins-idk-this-person-questioning-random-person-this-who-gif-5295285761881556675",
+      "context": "When someone says something weird or annoying, or if theyre mad at you for no reason",
+      "triggers": [
+        "fuck off"
+      ]
+    },
+    {
+      "url": "https://tenor.com/view/i-could%27ve-sworn-there-was-a-gif-of-this-whatever-squid-game-squid-game-edit-squid-game-edit-meme-i%27m-so-scared-gif-12360771953743496060",
+      "context": "When someone threathens you.",
+      "triggers": [
+        "kys"
+      ]
+    },
+    {
+      "url": "https://media.discordapp.net/attachments/1048331137241591918/1187842150206025728/ED6EFBC5-A68E-48C6-9103-B123B1ECC22D-1.gif?ex=697a6635&is=697914b5&hm=39820b36485a11334361f5d4fbd00d684acf14b13d75da22e8febefda1fafe27&",
+      "context": "when someone asks if you can speak",
+      "triggers": [
+        "can you speak?",
+        "can you speak",
+        "can you talk?"
+      ]
+    },
+    {
+      "url": "https://tenor.com/view/lying-wong-gif-7845920779899236663",
+      "context": "when someone is obviously lying",
+      "triggers": [
+        "lie"
+      ]
+    }
+  ]
+}

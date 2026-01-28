@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/profiles/
+data/memory
+data/ 
+/docs
+/.claude
+CLAUDE.md
+package-lock.json
