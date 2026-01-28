@@ -37,7 +37,7 @@ function parseGifResponse(response) {
     if (match) {
         const index = parseInt(match[1]);
         if (index >= 0 && index < config.gifs.length) {
-            if (Math.random() <= 0.9) {
+            if (Math.random() <= 0.5) {
                 return config.gifs[index].url;
             }
             return 'RETRY';

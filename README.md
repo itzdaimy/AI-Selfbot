@@ -26,15 +26,15 @@ npm install
 
 2. Copy `.env.example` to `.env` and fill in:
 ```
-DISCORD_TOKEN=your_discord_user_token
-OPENROUTER_API_KEY=your_openrouter_key
+discord_token=discord account token here
+openrouter_key=openrouter api key here
 ```
 
 3. Edit `config.json` to your liking
 
 4. Run:
 ```bash
-npm start
+npm run start
 ```
 
 ## Configuration
