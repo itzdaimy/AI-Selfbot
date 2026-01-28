@@ -134,4 +134,4 @@ data/
 
 ## License
 
-Check LISCENSE file
+Check [LICENSE](https://github.com/itzdaimy/AI-Selfbot/blob/main/LICENSE) file
