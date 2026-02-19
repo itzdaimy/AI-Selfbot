@@ -4,6 +4,9 @@ Discord selfbot that uses AI to respond to pings and DMs. Learns your communicat
 
 > **Warning**: Discord selfbots violate Discord's Terms of Service. Use at your own risk. This project is for educational purposes only.
 
+## ⚠️ WARNING
+
+Selfbotting is not allowed. Use this on your own risk. I am not liable for any damage/bans caused by using this. 
 ## Features
 
 - **AI-powered responses** via OpenRouter or local Ollama
